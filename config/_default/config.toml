@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://tsurumoto-shi.github.io/"
+baseURL = "https://tsurumoto.github.io"
 defaultContentLanguage = "zh-tw"
 
 enableRobotsTXT = true
