@@ -49,7 +49,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo --minify -d ./public --baseURL https://github.com/tsurumoto-shi/home
+          hugo --minify -d ./public --baseURL https://tsurumoto-shi.github.io/home/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -59,7 +59,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://github.com/tsurumoto-shi/home
+      url: https://tsurumoto-shi.github.io/home
     runs-on: ubuntu-latest
     needs: build
     steps:
