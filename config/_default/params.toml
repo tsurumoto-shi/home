@@ -77,6 +77,13 @@ mainSections = ["posts"]
 [taxonomy]
   showTermCount = true
 
+[buymeacoffee]
+  identifier = "tsurumoto"
+  globalWidget = true
+  globalWidgetMessage = "Hello"
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
+
 [firebase]
   # apiKey = "XXXXXX"
   # authDomain = "XXXXXX"

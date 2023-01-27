@@ -15,7 +15,8 @@ draft: false
 
 在經歷2022下半年的房市量縮之後，政府更進一步收緊房市上漲的空間，在前內政部長徐國勇口中已熄火的「經濟火車頭」上再澆上一盆冷水。今天我們就來看看它造成的影響以及其他的房市新聞。
 
-## [躺了8個月的「打炒房撒手鐧」解凍！一文看懂《平均地權條例》修法始末與衝擊](https://money.udn.com/money/story/5621/6901357)
+## 躺了8個月的「打炒房撒手鐧」解凍！一文看懂《平均地權條例》修法始末與衝擊
+參考資料：[https://money.udn.com/money/story/5621/6901357](https://money.udn.com/money/story/5621/6901357)
 
 本次修法五大重點如下：
 
@@ -58,7 +59,8 @@ draft: false
 如此一來房價的下跌才能成為執政黨的政績。在相關法規修訂之後對於房價有有感的抑制，或許會讓選舉時對於居住正義的論述會更加有利吧。但是這畢竟只是個夢。
 
 
-## [顏炳立：房價下修10%才會見量](https://money.udn.com/money/story/5621/6890218?from=edn_search_tag_result)
+## 顏炳立：房價下修10%才會見量
+參考資料：[https://money.udn.com/money/story/5621/6890218?from=edn_search_tag_result)](https://money.udn.com/money/story/5621/6890218?from=edn_search_tag_result)
 港商不動產顧問戴德梁行總經理顏炳立在1/5給出了本年度台灣的房市預測。
 
 >形容今年兔年是「狡兔追月」，今年房市量、價、買氣皆收斂，大趨勢為「跌、緩跌、量縮」格局。不論是住宅、豪宅、土地，價要下修10%才會見量。
@@ -78,12 +80,14 @@ draft: false
 2. 持有物件時間已久的屋主，多賺少賺都可以。
 3. 新建案的餘屋
 
-## [台北市這一年新案房價漲多少？](https://money.udn.com/money/story/5621/6908483?from=edn_newestlist_cate_side)
+## 台北市這一年新案房價漲多少？
+參考資料：[https://money.udn.com/money/story/5621/6908483?from=edn_newestlist_cate_side](https://money.udn.com/money/story/5621/6908483?from=edn_newestlist_cate_side)
 
 給大家一個參考值目前台北各區的參考價格。
 ![alt 台北新案成交價變化](https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2023/01/13/realtime/19936771.png&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600 "台北新案成交價變化")
 
-## [軟著陸房價怎麼跌？學者曝四階段、這種個案第一波](https://money.udn.com/money/story/5621/6907831?from=edn_subcatelist_cate)
+## 軟著陸房價怎麼跌？學者曝四階段、這種個案第一波
+參考資料：[https://money.udn.com/money/story/5621/6907831?from=edn_subcatelist_cate](https://money.udn.com/money/story/5621/6907831?from=edn_subcatelist_cate)
 
 張金鶚老師提到未來房市會是「軟著陸」，因此房價就是「緩慢下跌」。
 
