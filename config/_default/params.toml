@@ -80,7 +80,7 @@ mainSections = ["posts"]
 [buymeacoffee]
   identifier = "tsurumoto"
   globalWidget = true
-  globalWidgetMessage = "Hello"
+  # globalWidgetMessage = "Hello"
   globalWidgetColor = "#FFDD00"
   globalWidgetPosition = "Right"
 
