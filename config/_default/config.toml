@@ -30,4 +30,4 @@ buildFuture = false
   home = ["HTML", "RSS", "JSON"]
 
 # version 4
-googleAnalytics = "G-K0XL3CDFQ4"
+#googleAnalytics = "G-K0XL3CDFQ4"
