@@ -46,7 +46,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/tsurumoto-shi"
+  url = "https://github.com/tsurumoto-shi/home"
   weight = 70
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
