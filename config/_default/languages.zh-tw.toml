@@ -15,7 +15,7 @@ dateFormat = "Mon, Jan 02, 2006"
 [author]
   name = "小鶴 Tsurumoto"
   image = "img/tsurumoto_logo.jpg"
-  headline = "熱衷於分享不動產資訊＆生活"
+  headline = "熱衷於分享不動產資訊＆命理＆生活"
   bio = "熱愛紫微斗數與不動產的工程師。長期關注台灣的不動產資訊與發展，不定期分享業內的看法以及有興趣的建案"
   #links = [
   #   { link = "https://nunocoracao.github.io/blowfish/" },
